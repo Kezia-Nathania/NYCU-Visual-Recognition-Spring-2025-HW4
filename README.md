@@ -8,7 +8,7 @@ The task of this homework is image restoration for two types of degradation, rai
 ## How to Install
 ### Clone the repository:  
   git clone https://github.com/Kezia-Nathania/NYCU-Visual-Recognition-Spring-2025-HW4.git  
-  cd NYCU-Visual-Recognition-2025-Spring-HW4  
+  cd NYCU-Visual-Recognition-Spring-2025-HW4-main  
 ### Install dependencies:  
   pip install -r requirement.txt  
 ### Run the train.py file  
